@@ -1,2 +1,2 @@
-JWT_SECRET='myjwtsecret'
+JWT_SECRET='Q3kRLpt9jkstVWG'
 LOG_LEVEL=DEBUG
